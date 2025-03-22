@@ -1,6 +1,6 @@
 # 🐶 Dog API - Consumo de API com PHP
 
-Este projeto consome a **[The Dog API](https://thedogapi.com/)** para exibir imagens de cachorros em um **layout responsivo** utilizando **PHP** e **CSS Grid**. Ele também filtra imagens com um tamanho mínimo para manter um design mais uniforme.
+Este projeto consome a **[The Dog API](https://thedogapi.com/)** para exibir imagens de cachorros em um **layout responsivo** utilizando **PHP** e **CSS Grid**.
 
 ![Exemplo do Projeto](https://via.placeholder.com/800x400?text=Exemplo+de+Interface)  
 
