@@ -2,8 +2,6 @@
 
 Este projeto consome a **[The Dog API](https://thedogapi.com/)** para exibir imagens de cachorros em um **layout responsivo** utilizando **PHP** e **CSS Grid**.
 
-![Exemplo do Projeto](https://via.placeholder.com/800x400?text=Exemplo+de+Interface)  
-
 ## 📌 **Recursos**
 ✅ Consumo de API externa com `file_get_contents()`  
 ✅ Decodificação do JSON para um array associativo  
